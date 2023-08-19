@@ -3,6 +3,14 @@
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo harum saepe minus maiores blanditiis labore illo maxime quod molestias porro laborum obcaecati praesentium perferendis nesciunt impedit, inventore aspernatur laboriosam illum eos quia tempore beatae. Eligendi porro quo ex fuga perspiciatis.
 
 ### ⚔ Tools & Technologies
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
 
 
 ### 📊 Statistical Data
