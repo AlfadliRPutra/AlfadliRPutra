@@ -1,8 +1,10 @@
-# Hi! I am Alfa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px">
-### 🚀 About Me
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo harum saepe minus maiores blanditiis labore illo maxime quod molestias porro laborum obcaecati praesentium perferendis nesciunt impedit, inventore aspernatur laboriosam illum eos quia tempore beatae. Eligendi porro quo ex fuga perspiciatis.
+# Alfa's Profile 🚀
 
-### ⚔ Tools & Technologies
+Greetings! I'm Alfa, a passionate Information Systems student deeply interested in the realms of Data Science and innovative applications within Information Technology. I am on a continuous journey to cultivate creativity and contribute to the ever-evolving digital landscape. My proficiency lies in data management and analysis, and I'm enthusiastic about venturing into a career in Information Technology, aiming to make impactful contributions to the dynamic tech industry.
+
+## ⚔ Tools & Technologies
+I wield the following tools and technologies in my quest for excellence:
+
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -11,13 +13,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo harum saepe minus m
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
+## 📊 Statistical Data
+Explore my GitHub statistics to get insights into my coding journey:
 
-
-### 📊 Statistical Data
 [![Alfadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfadliRPutra)](https://github.com/AlfadliRPutra/github-readme-stats)
 
+## 📨 Connect with me!
+Let's connect and discuss exciting opportunities or collaborate on projects:
 
-
-### 📨 Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlfadliRPutra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfadlirputra/)  
 
+Looking forward to building connections and exploring the limitless possibilities in the tech world! 🌐✨
