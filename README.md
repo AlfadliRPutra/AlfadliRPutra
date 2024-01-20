@@ -21,7 +21,7 @@ Explore my GitHub statistics to get insights into my coding journey:
 ## 🏆 Certification Badge
 Recognized for my achievements:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d178f96-c604-44c9-a998-43cea778329b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Certification Badge](https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public/)
 
 ## 📨 Connect with me!
 Let's connect and discuss exciting opportunities or collaborate on projects:
