@@ -18,6 +18,11 @@ Explore my GitHub statistics to get insights into my coding journey:
 
 [![Alfadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfadliRPutra)](https://github.com/AlfadliRPutra/github-readme-stats)
 
+## 🏆 Certification Badge
+Recognized for my achievements:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2d178f96-c604-44c9-a998-43cea778329b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 📨 Connect with me!
 Let's connect and discuss exciting opportunities or collaborate on projects:
 
