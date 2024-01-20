@@ -21,7 +21,7 @@ Explore my GitHub statistics to get insights into my coding journey:
 ## 🏆 Certification Badge
 Recognized for my achievements:
 
-![Certification Badge](https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public/)
+![google data analytics](https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public_url)
 
 ## 📨 Connect with me!
 Let's connect and discuss exciting opportunities or collaborate on projects:
