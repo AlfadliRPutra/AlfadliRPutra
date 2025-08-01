@@ -1,19 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlfadliRPutra.AlfadliRPutra" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alfa+R+Putra!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alfadli+R+Putra!;" />
 </h1>
 
-<h3 align="center">An aspiring Information Systems student passionate about Data Science & IT innovations 🌐</h3>
+<h3 align="center">A recent Information Systems graduate passionate about Data Science & IT solutions 🌐</h3>
 
 <br/>
 
 <div align="center">
 
-🎓 I'm currently studying **Information Systems**  
-📈 I'm passionate about **Data Science & Tech Innovation**  
-💻 I'm skilled in **Data Analysis, Python, Web Technologies**  
-🌱 I’m currently exploring **advanced data management and analytics**  
+🎓 I recently graduated in **Information Systems**  
+📈 I'm passionate about **Data Science** and **Information Systems Solutions**  
+💻 I'm skilled in **Data Analysis, Web Technologies, and Mobile App Development**  
+🌱 I’m currently exploring **AI integration in business processes and cloud-based data pipelines**  
 📬 Feel free to connect or collaborate [here](https://github.com/AlfadliRPutra)
 
 </div>
@@ -34,7 +34,7 @@
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,laravel,react,flutter,nextjs" />
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 <h2 align="center">📊 Stats 📊</h2>
 <br/>
 <div align="center">
-   <img width=390 src="https://git-hub-streak-stats.vercel.app?user=AlfadliRPutra&theme=react&hide_border=true&card_width=390" alt="streak stats"/>
+   <img width=390 src="https://git-hub-streak-stats.vercel.app?user=AlfadliRPutra&theme=react&hide_border=false" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlfadliRPutra&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfadliRPutra&layout=compact&theme=react&hide_border=false&border_radius=10" alt="Top Languages"/>
