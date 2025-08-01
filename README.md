@@ -71,8 +71,10 @@
 <h2 align="center">🏅 Certification Badge 🏅</h2>
 <br/>
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
+<p align="center">
+  <!--START_SECTION:badges-->
+  <!--END_SECTION:badges-->
+</p>
 
 <br/><br/>
 
