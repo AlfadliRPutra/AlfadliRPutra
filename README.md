@@ -1,16 +1,17 @@
+<!-- SECTION: Visitor Counter -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlfadliRPutra.AlfadliRPutra" />
-<!-- KOMENTAR: Badge pengunjung sudah tepat penempatannya di pojok kanan atas -->
 
+<!-- SECTION: Animated Heading Introduction -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alfadli+R+Putra!;" />
 </h1>
-<!-- KOMENTAR: Animasi typing membuat tampilan jadi lebih hidup dan menarik -->
 
-<h3 align="center">An Information Systems graduate passionate about Data Science & IT solutions 🌐</h3>
-<!-- PERBAIKAN: Hilangkan "recent" agar tetap relevan meskipun sudah lama lulus -->
+<!-- SECTION: Short Bio -->
+<h3 align="center">An Information Systems graduate passionate about Data Science & Information Systems solutions 🌐</h3>
 
 <br/>
 
+<!-- SECTION: Personal Summary with Skills and Interest -->
 <div align="center">
 
 🎓 Graduated with a degree in **Information Systems**  
@@ -20,10 +21,10 @@
 📬 Let’s connect or collaborate [here](https://github.com/AlfadliRPutra)
 
 </div>
-<!-- PERBAIKAN: Perbaikan struktur kalimat agar lebih konsisten dan profesional -->
 
 <br/>
 
+<!-- SECTION: Social Media Badges -->
 <div align="center">
   <a href="https://github.com/AlfadliRPutra">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
@@ -32,25 +33,24 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<!-- KOMENTAR: Badge sosial sudah sesuai dan responsif -->
 
 <hr/>
 
+<!-- SECTION: Tools & Technologies -->
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,laravel,react,flutter,nextjs" />
 </div>
-<!-- KOMENTAR: Gunakan juga deskripsi pendek atau tooltips jika ingin menambahkan konteks -->
 
 <br/>
 <hr/>
 
-<!-- KOMENTAR: Animasi ular kontributor menarik, pastikan file GIF tersedia di repo -->
+<!-- SECTION: Contribution Snake Animation -->
+<h2 align="center">💻 Contributions 💻</h2>
+![snake gif](https://github.com/AlfadliRPutra/AlfadliRPutra/blob/output/github-snake-dark.svg)
 
-Contributions  
-![snake gif](https://github.com/AlfadliRPutra/AlfadliRPutra/blob/output/github-contribution-grid-snake.gif)
-
+<!-- SECTION: GitHub Stats Section -->
 <h2 align="center">📊 Stats 📊</h2>
 <br/>
 <div align="center">
@@ -59,11 +59,11 @@ Contributions
    <br/>
    <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfadliRPutra&layout=compact&theme=react&hide_border=false&border_radius=10" alt="Top Languages"/>
 </div>
-<!-- KOMENTAR: Statistik sudah lengkap dan menarik, bagus untuk showcase GitHub activity -->
 
 <br/>
 <hr/>
 
+<!-- SECTION: Certification Badge -->
 <h2 align="center">🏅 Certification Badge 🏅</h2>
 <br/>
 <div align="center">
@@ -71,13 +71,12 @@ Contributions
     <img src="https://images.credly.com/size/340x340/images/f88d800c-f59f-4a07-9396-4c4a6e849a2b/Google_Data_Analytics_Certificate.png" alt="Google Data Analytics Certification" width="150"/>
   </a>
 </div>
-<!-- KOMENTAR: Sertifikat resmi menambah kredibilitas. Disarankan menambahkan lebih jika ada -->
 
 <br/><br/>
 
 <hr/>
 
+<!-- SECTION: Closing Message -->
 <div align="center">
   <h3>🌟 Let's build and learn together. The digital world is full of infinite possibilities! 🌟</h3>
 </div>
-<!-- KOMENTAR: Penutup yang positif dan menginspirasi. Sudah sangat baik -->
