@@ -73,7 +73,13 @@
 
 <p align="center">
   <!--START_SECTION:badges-->
-  <!--END_SECTION:badges-->
+<a href="https://www.credly.com/badges/32b0c9b1-b98f-4d3a-be34-27e01d68c0ce" title="IT Specialist - Python"><img src="https://images.credly.com/size/80x80/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" alt="IT Specialist - Python" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/778c0751-5825-4d48-9fb8-c4d57648f1f2" title="Microsoft Office Specialist: Excel Associate (Office 2019)"><img src="https://images.credly.com/size/80x80/images/9d2bcbe6-519f-4ed0-ad34-aca077421568/MOS_Excel.png" alt="Microsoft Office Specialist: Excel Associate (Office 2019)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b" title="Google Data Analytics Professional Certificate"><img src="https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/887cb406-0eb6-4cd7-894a-19d9d8a548ba" title="Introduction to IoT"><img src="https://images.credly.com/size/80x80/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IoT" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/7fabf140-74ed-4bcc-90a3-567847d8c75a" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/b449a102-c088-4467-9a20-db453d87cb9a" title="Introduction to Data Science"><img src="https://images.credly.com/size/80x80/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Introduction to Data Science" width="80" height="80"></a>
+<!--END_SECTION:badges-->
 </p>
 
 <br/><br/>
