@@ -48,7 +48,11 @@
 
 <!-- SECTION: Contribution Snake Animation -->
 <h2 align="center">💻 Contributions 💻</h2>
-![snake gif](https://github.com/AlfadliRPutra/AlfadliRPutra/blob/output/github-snake-dark.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlfadliRPutra/AlfadliRPutra/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+<br/>
+<br/>
 
 <!-- SECTION: GitHub Stats Section -->
 <h2 align="center">📊 Stats 📊</h2>
