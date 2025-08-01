@@ -70,11 +70,9 @@
 <!-- SECTION: Certification Badge -->
 <h2 align="center">🏅 Certification Badge 🏅</h2>
 <br/>
-<div align="center">
-  <a href="https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f88d800c-f59f-4a07-9396-4c4a6e849a2b/Google_Data_Analytics_Certificate.png" alt="Google Data Analytics Certification" width="150"/>
-  </a>
-</div>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <br/><br/>
 
