@@ -1,31 +1,69 @@
-# Alfa's Profile 🚀
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=AlfadliRPutra.AlfadliRPutra" />
 
-Greetings! I'm Alfa, a passionate Information Systems student deeply interested in the realms of Data Science and innovative applications within Information Technology. I am on a continuous journey to cultivate creativity and contribute to the ever-evolving digital landscape. My proficiency lies in data management and analysis, and I'm enthusiastic about venturing into a career in Information Technology, aiming to make impactful contributions to the dynamic tech industry.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alfa+R+Putra!;" />
+</h1>
 
-## ⚔ Tools & Technologies
-I wield the following tools and technologies in my quest for excellence:
+<h3 align="center">An aspiring Information Systems student passionate about Data Science & IT innovations 🌐</h3>
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+<br/>
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+<div align="center">
 
-## 📊 Statistical Data
-Explore my GitHub statistics to get insights into my coding journey:
+🎓 I'm currently studying **Information Systems**  
+📈 I'm passionate about **Data Science & Tech Innovation**  
+💻 I'm skilled in **Data Analysis, Python, Web Technologies**  
+🌱 I’m currently exploring **advanced data management and analytics**  
+📬 Feel free to connect or collaborate [here](https://github.com/AlfadliRPutra)
 
-[![Alfadli's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlfadliRPutra)](https://github.com/AlfadliRPutra/github-readme-stats)
+</div>
 
-## 🏆 Certification Badge
-Recognized for my achievements:
+<br/>
 
-![google data analytics](https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public_url)
+<div align="center">
+  <a href="https://github.com/AlfadliRPutra">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/alfadlirputra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
-## 📨 Connect with me!
-Let's connect and discuss exciting opportunities or collaborate on projects:
+<hr/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AlfadliRPutra)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alfadlirputra/)  
+<h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,vscode" />
+</div>
 
-Looking forward to building connections and exploring the limitless possibilities in the tech world! 🌐✨
+<br/>
+<hr/>
+
+<h2 align="center">📊 Stats 📊</h2>
+<br/>
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=AlfadliRPutra&theme=react&hide_border=false&border_radius=10" alt="Streak Stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=AlfadliRPutra&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfadliRPutra&layout=compact&theme=react&hide_border=false&border_radius=10" alt="Top Languages"/>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🏅 Certification Badge 🏅</h2>
+<br/>
+<div align="center">
+  <a href="https://www.credly.com/badges/2d178f96-c604-44c9-a998-43cea778329b/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/f88d800c-f59f-4a07-9396-4c4a6e849a2b/Google_Data_Analytics_Certificate.png" alt="Google Data Analytics Certification" width="150"/>
+  </a>
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<div align="center">
+  <h3>🌟 Let's build and learn together. The digital world is full of infinite possibilities! 🌟</h3>
+</div>
