@@ -7,17 +7,18 @@
 </h1>
 
 <!-- SECTION: Short Bio -->
-<h3 align="center">An Information Systems graduate passionate about Data Science & Information Systems solutions 🌐</h3>
+<h3 align="center">Programmer specialized in Automation, AI & Machine Learning Integration 🤖⚡</h3>
 
 <br/>
 
 <!-- SECTION: Personal Summary with Skills and Interest -->
 <div align="center">
 
-🎓 Graduated with a degree in **Information Systems**  
-📈 Passionate about **Data Science** and **Information Systems Solutions**  
-💻 Skilled in **Data Analysis, Web Technologies, and Mobile App Development**  
-🌱 Currently exploring **AI integration in business processes and cloud-based data pipelines**  
+🎓 **Information Systems** graduate focusing on practical software engineering
+🤖 Bridging the gap between **AI/Machine Learning models** and production-ready applications
+⚙️ Building **automation pipelines** to streamline and optimize business workflows
+💻 Developing and integrating intelligent models into **web and mobile platforms**
+🌱 Currently focusing on **Cloud MLOps, data engineering pipelines, and Agentic AI systems**
 📬 Let’s connect or collaborate [here](https://github.com/AlfadliRPutra)
 
 </div>
@@ -40,7 +41,11 @@
 <h2 align="center">⚒️ Tools & Technologies ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,laravel,react,flutter,nextjs" />
+    <!-- Row 1: AI, ML & Automation Core -->
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,scikitlearn,githubactions,docker" />
+    <br/><br/>
+    <!-- Row 2: Integration, Web & Mobile Development -->
+    <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flutter,js,ts" />
 </div>
 
 <br/>
@@ -88,5 +93,5 @@
 
 <!-- SECTION: Closing Message -->
 <div align="center">
-  <h3>🌟 Let's build and learn together. The digital world is full of infinite possibilities! 🌟</h3>
+  <h3>🌟 Let's build smart solutions and learn together. The future belongs to automation and intelligent systems! 🌟</h3>
 </div>
